@@ -78,8 +78,6 @@ t2.sort()
 t1=tuple(t2)
 print(t1)
 
-def demo():
-    print("test")
-demo()
+
 
 
